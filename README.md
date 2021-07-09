@@ -3,4 +3,4 @@ Hi, my name is Hugo Pascoal. I have a degree in Systems Analysis and Development
 
 If you want to talk to me , 👇.
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/hugopascoal2570)](https://github.com/hugopascoal2570)
-<img alt="Instagram" src="https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white & link="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+[![Facebook Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://www.facebook.com/HugoPascoalBrito/)](https://www.facebook.com/HugoPascoalBrito/)
