@@ -22,5 +22,5 @@ A little knowledge in
 ![React Native Badge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 I have more affinity with PHP, SQL and HTML
-<p align="center"> texto que você quiser </p>
+<p align="center"> Sejam bem-vindos</p>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/hugopascoal2570/count.svg" /></p>
