@@ -16,11 +16,6 @@ Línguas que estudo atualmente
 ![boostrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Laravel Badge](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-
-tenho um pouco de conhecimento em
-![Kotlin Badge](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-![React Native Badge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
 Tenho mais afinidade com PHP, SQL, Laravel e HTML
 <p align="center"> Sejam bem-vindos</p>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/hugopascoal2570/count.svg" /></p>
