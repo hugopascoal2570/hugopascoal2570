@@ -1,5 +1,5 @@
 ### Olá 👋
- meu nome é Hugo Pascoal. Sou formado em Análise e Desenvolvimento de Sistemas. Atualmente trabalho como desenvolvedor web na empresa Ow Interactive. Tenho muito que aprender. Mas quero muito crescer nesse mercado.
+ meu nome é Hugo Pascoal. Sou formado em Análise e Desenvolvimento de Sistemas, pela Unifavip devry. Atualmente trabalho como desenvolvedor web na empresa Ow Interactive. Tenho muito que aprender, mas tenho muita vontade crescer nesse mercado.
 
 Se você quiser falar comigo , 👇.
 
