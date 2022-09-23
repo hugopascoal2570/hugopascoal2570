@@ -3,7 +3,7 @@
 
 Se você quiser falar comigo , 👇.
 
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://www.linkedin.com/in/hugo-pascoal-brito/)](https://www.linkedin.com/in/hugo-pascoal-brito/)
+[![Github Badge]( 	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/hugo-pascoal-brito/)](https://www.linkedin.com/in/hugo-pascoal-brito/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/HugoPascoalBrito/)](https://www.facebook.com/HugoPascoalBrito/)
 
 Línguas que estudo atualmente
