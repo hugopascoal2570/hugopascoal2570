@@ -19,3 +19,6 @@ Línguas que estudo atualmente
 
 Tenho mais afinidade com PHP, SQL, Laravel e adonisjs
 
+<p align="center"> Sejam bem-vindos</p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/hugopascoal2570/count.svg" /></p>
+
