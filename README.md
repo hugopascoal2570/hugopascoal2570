@@ -16,7 +16,7 @@ Línguas que estudo e trabalho atualmente
 ![Vue Badge](https://img.shields.io/badge/vue.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![AdonisJs Badge](https://img.shields.io/badge/adonis%20js-220052?style=for-the-badge&logo=adonisjs&logoColor=white)
 ![Node Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
+![TypeScript Badge](https://img.shields.io/badge/typescript-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 Tenho mais afinidade com PHP, SQL, Laravel e adonisjs
 
