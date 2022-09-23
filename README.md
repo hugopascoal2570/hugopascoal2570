@@ -13,9 +13,10 @@ Línguas que estudo e trabalho atualmente
 ![SQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![boostrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Laravel Badge](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Vue Badge](https://img.shields.io/badge/vue.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![AdonisJs Badge](https://img.shields.io/badge/adonis%20js-220052?style=for-the-badge&logo=adonisjs&logoColor=white)
 ![Node Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Vue Badge](https://img.shields.io/badge/vue.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
 
 Tenho mais afinidade com PHP, SQL, Laravel e adonisjs
 
