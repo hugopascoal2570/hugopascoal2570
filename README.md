@@ -18,6 +18,7 @@ Línguagens que trabalho atualmente
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 Línguagens que estudo atualmente
+
 ![Vue Badge](https://img.shields.io/badge/vue.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 Tenho mais afinidade com PHP, SQL, Laravel e adonisjs
