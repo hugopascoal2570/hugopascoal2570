@@ -17,6 +17,5 @@ Línguas que estudo atualmente
 ![Node Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 
-Tenho mais afinidade com PHP, SQL, Laravel e HTML
-<p align="center"> Sejam bem-vindos</p>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/hugopascoal2570/count.svg" /></p>
+Tenho mais afinidade com PHP, SQL, Laravel e adonisjs
+
