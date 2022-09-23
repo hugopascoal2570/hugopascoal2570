@@ -1,5 +1,5 @@
 ### Olá 👋
- meu nome é Hugo Pascoal. Sou formado em Análise e Desenvolvimento de Sistemas. Atualmente procuro minha primeira oportunidade no mercado de trabalho. Para expandir meus conhecimentos e agregar algo de valor aos meus futuros colegas. Ainda estou começando, tenho muito que aprender. Mas quero muito crescer nesse mercado.
+ meu nome é Hugo Pascoal. Sou formado em Análise e Desenvolvimento de Sistemas. Atualmente trabalho como desenvolvedor web na empresa Ow Interactive. Tenho muito que aprender. Mas quero muito crescer nesse mercado.
 
 Se você quiser falar comigo , 👇.
 
